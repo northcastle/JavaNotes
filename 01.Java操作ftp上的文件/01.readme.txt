@@ -1,0 +1,6 @@
+1.jdk1.8 的环境下
+2.需要用到的第三方包 ： commons-new.3.6.jar 
+  这个第三方包，在maven上面可以找的到
+
+3.FtpUtil.java 是封装的工具类，里面的方法是static，可以直接调用
+4.TestFtpUtil.java 是测试类，测试方法通过，可以正常使用。
