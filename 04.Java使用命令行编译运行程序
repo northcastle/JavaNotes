@@ -88,7 +88,7 @@ public class TestMDB {
 	}
 }
 
-3.2 这个jar包 是 Access_JDBC30.jar 在其他的工程里面应该是存在的，一会儿我再看看
+3.2 这个jar包 是 Access_JDBC30.jar 在这个仓库中的01 02 文件夹中有！
 
 3.3 编译
     【需要用到参数 -cp 】指定类运行所依赖其他类的路径，通常是类库，jar包之类，需要全路径到jar包，
